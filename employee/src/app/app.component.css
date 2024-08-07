@@ -1,0 +1,30 @@
+label{
+    font-weight: bold;
+    color: #900C3F;
+}
+h1{
+    text-align: center;
+    color: #900C3F;
+}
+nav{
+    width: 800px;
+    height: 800px;
+    margin: 20px;
+    border: 2px solid black;
+}
+.buttons{
+    margin: 20px;
+}
+header{
+    border: 2px solid black;
+}
+.results{
+    border: 2px solid black;
+    margin-top: 19px;
+    width: 400px;
+    height: 800px;
+}
+
+.main{
+    display: flex;
+}

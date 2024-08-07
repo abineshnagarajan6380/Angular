@@ -1,0 +1,14 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "ItemName": "wheat",
+      "Price": "100"
+    },
+    {
+      "id": "1",
+      "ItemName": "rice",
+      "Price": "55"
+    }
+  ]
+}
